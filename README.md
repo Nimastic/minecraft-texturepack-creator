@@ -23,7 +23,6 @@ This repository contains tools and scripts to help you create and modify Minecra
        "description": "Average Colour Pack"
      }
    }
-  ```
 4. Select the assets folder and the pack.mcmeta file, right-click, and compress them into a ZIP file.
 5. Rename the compressed ZIP file to your preferred texture pack name.
 6. Move the ZIP file to the Minecraft resource pack folder: ESC > Options > Resource Pack.

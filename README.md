@@ -21,3 +21,29 @@ minecraft_textures/
 ├── particle/
 └── trims/
 ```
+
+
+## Resource Pack Structure
+
+```bash
+YourResourcePack/
+│
+├── pack.mcmeta
+├── assets/
+│   └── minecraft/
+│       ├── textures/
+│       │   ├── block/
+│       │   │   └── stone.png
+│       │   └── item/
+│       │       └── diamond_sword.png
+│       ├── models/
+│       │   ├── block/
+│       │   │   └── stone.json
+│       │   └── item/
+│       │       └── diamond_sword.json
+│       ├── blockstates/
+│       │   └── stone.json
+│       └── sounds/
+│           └── custom_sound.ogg
+└── README.txt (Optional)
+```
